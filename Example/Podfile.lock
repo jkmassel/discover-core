@@ -1,0 +1,35 @@
+PODS:
+  - DiscoverCore (0.1.0):
+    - FeedKit (~> 9.1.2)
+    - NSString_stripHtml
+  - FeedKit (9.1.2)
+  - Nimble (7.3.4)
+  - NSString_stripHtml (0.1.0)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - DiscoverCore (from `../`)
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - FeedKit
+    - Nimble
+    - NSString_stripHtml
+    - Quick
+
+EXTERNAL SOURCES:
+  DiscoverCore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DiscoverCore: fbb43f63fdc2248a0b0344893f529a5ecefdb4d0
+  FeedKit: 71653273ab08e618cd6fd1301ca08fc02dca6a9e
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  NSString_stripHtml: ba10acfb1c0f7f687055f8e4300a8a78e142f1ea
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 74e0a6b43374a6d62498094bd4219ae8d79ecd3a
+
+COCOAPODS: 1.9.3
